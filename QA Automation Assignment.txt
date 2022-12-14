@@ -1,0 +1,22 @@
+﻿
+
+QA Automation Assignment
+Write automation using selenium or playwright (choose the browser of your choice) to launch 
+www.ahtgsolutions.com and automate the below test cases using Specflow and c#.
+
+1. Navigate to request demo and verify the default values for Name and Email fields (Do not 
+submit the form)
+a. Name: What’s your name?
+b. Email: What’s your email?
+
+2. Navigate to about us  our team and verify that the images are displayed for Brian Schwidder 
+and Ben Palmer 
+
+3. When clicked on View More for Ben Palmer, it takes you to a page with more details.
+4. Navigate to the our products link and verify that there are two products displayed along with a 
+request demo button.
+
+Submission
+Please submit your code via email (or GitHub link) to your recruiter. Should you be selected for 
+an onsite interview, be prepared to present the application to the team and explain the coding 
+decisions
